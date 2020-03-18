@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name LTP_305_Matrix)(type KiCad)(uri "$(KIPRJMOD)/LTP_305_Matrix.pretty")(options "")(descr ""))
+  (lib (name Graphic)(type KiCad)(uri "$(KIPRJMOD)/Graphics/Graphic.pretty")(options "")(descr ""))
+)
